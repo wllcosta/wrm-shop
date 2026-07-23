@@ -5,5 +5,5 @@ Sistema interno pra controlar custo, precificação, estoque de produtos e venda
 
 Backend em Node/Express, banco Postgres no Neon, front em React. Tudo hospedado junto na Vercel.
 =======
-teste
+
 
